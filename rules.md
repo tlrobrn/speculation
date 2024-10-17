@@ -4,7 +4,7 @@ Try to setup your hand to score big in the end!
 
 ## Required to play
 
-- 2 players
+- 2-4 players
 - 2 standard decks of cards
 - A way to keep score between rounds
 
@@ -38,8 +38,8 @@ Jokers count as wild for option 3. In other words, if you discard a Joker you ca
 ## Scoring
 
 You score based on the top card from certain discard piles (depending on the round) and the cards in your hand.
-For the first round, you look at the card on top of the first discard pile. Whoever has more cards of that suit in their hand scores the value of the top card for each card of that suit they have more than their opponent.
-For example, if the top card of the first discard pile was the **4 of Spades**, and Susan had 6 Spades while Michael had 3 Spades, then Susan would score **12 points** _((6 - 3) * 4)_.
+For the first round, you look at the card on top of the first discard pile. Each player then scores the value of that card for every card of that suit they have in their hand.
+For example, if the top card of the first discard pile was the **4 of Spades**, and Susan had 6 Spades, Tony had 5 Spades, and Michael had 3 Spades, then Susan would score **24 points** _(4 * 6)_, Tony would score **20 points** _(4 * 5)_, and Michael would score **12 points** _(4 * 3)_.
 
 For the second round you do the same, but do so for both the first and second discard pile.
 For the third round you do the same scoring all the discard piles.
