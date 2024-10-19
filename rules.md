@@ -51,10 +51,10 @@ At the end of each round, players score based on the top card of certain discard
 - **Round 2**: Score based on both the first and second discard piles.
 - **Round 3**: Score based on all three discard piles.
 
-Jokers do not count toward suit majority when scoring.
+_Jokers do not count toward any suit when scoring._
 
 ## Winning
 
-If at the end of any round a player has all 4 Jokers in their hand, they win immediately!
+If at the end of **any** round a player has all 4 Jokers in their hand, they win immediately!
 
 Otherwise, after the third round, the player with the most points accumulated across all rounds is the winner.
