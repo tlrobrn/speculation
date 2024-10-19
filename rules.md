@@ -1,6 +1,6 @@
 # Speculation
 
-Set up your hand to score big in the end!
+Set up your hand and manipulate the market to out-score your opponents!
 
 ## Required to Play
 
