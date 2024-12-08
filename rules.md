@@ -58,3 +58,16 @@ _Jokers in hand do not count toward any suit when scoring. If a Joker is on top 
 If at the end of **any** round a player has all 4 Jokers in their hand, they win immediately!
 
 Otherwise, after the third round, the player with the most points accumulated across all rounds is the winner.
+
+## Advanced Court Cards Variant
+
+Instead of playing with Jokers as wild cards, you can use a selection of court cards which each have a special action if discarded.
+In setup, replace the Jokers with 4-6 court cards of your choosing.
+For each of the court cards you first discard the court card face-up to one of the discard piles and then discard another non-face card from your hand on top of it.
+Then perform the following action based on which face card you played:
+
+- **Jack:** Take _any_ one card from each stack.
+- **Queen:** Take the top 2 cards from each of the other 2 piles.
+- **King:** Take a random card from each opponent.
+
+_Like Jokers, court cards in hand do not count toward any suit when scoring. If a court card is on top of a scoring pile, then each player scores 1 point per card in any suit of thir choosing._
