@@ -51,7 +51,7 @@ At the end of each round, players score based on the top card of certain discard
 - **Round 2**: Score based on both the first and second discard piles.
 - **Round 3**: Score based on all three discard piles.
 
-_Jokers do not count toward any suit when scoring._
+_Jokers in hand do not count toward any suit when scoring. If a Joker is on top of a scoring pile, then each player scores 1 point per card in any suit of their choosing._
 
 ## Winning
 
